@@ -1,0 +1,4 @@
+---
+clickhouse_version: "23.8.9.54"
+
+clickhouse_database: "logs"
